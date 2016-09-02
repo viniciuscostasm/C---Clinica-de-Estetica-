@@ -1,0 +1,2 @@
+c:\users\bella\documents\visual studio 2015\Projects\BeautyClinic\BeautyClinic\bin\Debug\BeautyClinic.exe.config
+C:\Users\bella\Source\Repos\C---Clinica-de-Estetica-\BeautyClinic\bin\Debug\BeautyClinic.exe.config
