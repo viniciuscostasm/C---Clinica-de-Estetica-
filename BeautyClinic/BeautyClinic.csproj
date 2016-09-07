@@ -64,6 +64,24 @@
     <Compile Include="frmFaturamento.Designer.cs">
       <DependentUpon>frmFaturamento.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmFaturamentoRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFaturamentoRecord.Designer.cs">
+      <DependentUpon>frmFaturamentoRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogs.Designer.cs">
+      <DependentUpon>frmLogs.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmSplash.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +98,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmFaturamento.resx">
       <DependentUpon>frmFaturamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFaturamentoRecord.resx">
+      <DependentUpon>frmFaturamentoRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogs.resx">
+      <DependentUpon>frmLogs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSplash.resx">
       <DependentUpon>frmSplash.cs</DependentUpon>
